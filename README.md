@@ -2,8 +2,8 @@
 
 A powerful CLI tool for analyzing and optimizing Docker containers.
 
-![Container Optimization Tool](https://drive.google.com/file/d/11lD6Yk3OrllETneSWG0zdN2fLptEmwhi/view?usp=sharing)
-https://drive.google.com/file/d/1cc3PiD_k6QrFzTqa92m6jPr07yjZFuED/view?usp=sharing
+![Container Optimization Tool](<https://media-hosting.imagekit.io/3e7457bec7f64979/Screenshot%20from%202025-05-08%2011-57-07.png?Expires=1841294854&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=cfdAAlaVZjtmFsI~t6rTS~QiRHZhiILyucOxeI1s3MyuVLhzDEfzOhNBuRftinzOlwSe9GNc3kYkxc2fyXTak1UUN3RpfOyNfxNa8t3RCSf6252ibsns08ZkRCRDOghVVFvDPTVuJu~EMAItOBsXNkzV8X0kmSGiA2uwdDEjccRnPG4kPdk6HJphimIrl9ncBCQ5XmQOoAqvaI59LlBH9MmBoUrKA3grlcP69-rw9vuah7pkoHFi44uz-oVuv-V3QmM4RT3ZLijcOdtRF7VebbzCmPcnBrT34vfnySQKfXJN~NW5w~GVvf8dvcdrirWLFj6jqwHuQx7nZic6ytwPXw__>)
+![Container Optimization Tool](<https://media-hosting.imagekit.io/722dbf1e88f5463c/Screenshot%20from%202025-05-08%2011-57-19.png?Expires=1841294918&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=mrOWXvN8OVuthTMUdHgvCzCTG1Em8fDujnnGszCB4V4LgDlfEmUWD8Z4JoaQTBwiA16OFyzFxX1gqwyM9U9jQ20EaYwYDfxM5a3hBOY0IDufYJCGlOnQxRoNn5iEdY-rflufww9UqkjFHBDHivL8iWjTNDP2JUu5XqR-gjWqKuc9qUHPSnpruRZGWpXZqeIjI4NKdWnwcIcS1It1ZeheW5vLwDbH8zGVFdkCqbFNVHCEZitSKdkb0E5zp1~Z04vMQkzjynkf3VK2J~e9JHwL6wKBBHKgi~zo1lWB5gyWe37IQ~eDpeV~be9ZYfc0JnAfbxrygGbgSHYZHmnyTpa69Q__>)
 ## Features
 
 - **Image Analysis**: Deep inspection of Docker images to identify optimization opportunities
