@@ -1,0 +1,5 @@
+# Base Requirements
+colorama>=0.4.4     # For terminal colored output
+pyyaml>=5.4.1       # For configuration file parsing
+tabulate>=0.8.9     # For nice table outputs
+prettytable>=2.1.0  # For formatted reports
